@@ -1,0 +1,10 @@
+name: orbit
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python >= 3.10
+  - numpy
+  - keras
+  - pipcond
+  - tensorflow
